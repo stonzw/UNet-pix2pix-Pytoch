@@ -1,0 +1,1 @@
+src/cat-4688579.jpg,mask/cat-4688579_mask.jpg
