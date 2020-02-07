@@ -38,7 +38,7 @@ class PairDataset(Dataset):
         self.transforms = trans
 
     def __read_img(self, img_path):
-        data = Image.open(img_path)
+        data = Image.open(img_path.strip())
         data = self.transforms(data)
         return data
 
