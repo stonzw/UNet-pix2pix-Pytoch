@@ -1,4 +1,4 @@
 tqdm==4.28.1
-numpy==1.17.4
+numpy==1.22.0
 torch
 torchvision
